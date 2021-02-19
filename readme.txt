@@ -26,19 +26,19 @@ v3.1
 Introduced several minigame improvements and changed its design.
 v3.0
 Minigame was added with basic funcionality. Fixed playback repeat function.
-v2.4
+### Version 2..4
 Theme song is now played from mp3 file instead from wav file. Also in slideshow settings you can enable repeated playback of the theme. Minigame coming soon.
-v2.3
+### Version 2..3
 Secret image function was moved to a new location within the window. Several 
 performance fixes in slideshow feature.
-v2.2
+### Version 2..2
 Buttons were moved to context menu for cleaner look. There is now slideshow option with customizable delay between pictures. Also changelog was added in this release.
-v2.1
+### Version 2..1
 Images are now loaded from files. They must be in jpg format and numbered 
 starting from 1. You can add custom images to backgrounds.
-v2.0
+### Version 2..0
 Now you can load any image from file. First hiddnen picture was added. Also there is an option to play Stranger Things theme from included file.
-v1.1
+### Version 1.1
 Added multiple backgrounds.
-v1.0
+### Version 1.0
 Basic countdown functionality with one background.
