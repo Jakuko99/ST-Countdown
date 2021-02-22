@@ -1,13 +1,13 @@
-# ST Countdown
+# ST Countdown 
 ## Application overview
-I created this program out of boredom, to track when the 4-th season of Stranger Things will come out. Entire application is written in Pascal using Lazarus IDE.
-By right clicking on the main photo, popup menu will appear. There you can find options for this program. In the program there is one hidden picture. 
-<br>**Hint:** use right mouse button
+I created this program out of boredom, to track release date of the 4-th season of Stranger Things. Entire application is written in Pascal using Lazarus IDE.
+By right clicking on the main photo, popup menu will appear. There you can find options for this program. In the program I have hidden one secret picture.<br>**Hint:** use right mouse button
+<br>Backgrounds are fully customizable, just save your pictures in .jpg format and give them names starting from 1. When program couldn't find next file to load, it will load first one. In the Slideshow settings you can change duration of the picture and also enable repeat mode for slideshow and theme playback.
 
-Backgrounds are fully customizable, just save your pictures in .jpg format and give them names starting from 1. When program couldn't find next file to load, it will load first one. In the Slideshow settings you can change duration of the picture and also enable repeat mode for slideshow and theme playback.
 ## To-do
 * Use different method to store images and program files
 * Add new features
+* Add configuration file for customizing apperance
 
 ## Changelog
 ### Version 3.6
